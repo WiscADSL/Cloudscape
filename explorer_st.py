@@ -173,7 +173,7 @@ with st.sidebar:
     st.write(
         """
         This app visualizes the architectures captured in the Cloudscape dataset.
-        - Select an architecture from the dropdown to view the architecture. The architecture explorer is __interactive__.
+        - Select an architecture from the dropdown to view the architecture or type to search an architecture by name. The architecture explorer is __interactive__.
         - We recommend using light mode for better visibility. You can change the theme from the settings menu from the top right.
         - The wide mode (found in settings) is sometimes helpful for viewing architectures with many nodes.
 
