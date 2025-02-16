@@ -148,7 +148,7 @@
       <data key="d11">data</data>
     </edge>
     <data key="d0">Insider: How We Ingest Billions of Data Points Daily to Power our Real-Time Products</data>
-    <data key="d1">https://www.youtube.com/watch?v=rHLuQTO6eoo&amp;list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb&amp;index=132</data>
+    <data key="d1">https://www.youtube.com/watch?v=rHLuQTO6eoo</data>
     <data key="d2">eks uses managed node groups (spot instances). 50K W requests per second. 100K R requests per second.</data>
     <data key="d3">data_ingestion</data>
     <data key="d4">True</data>

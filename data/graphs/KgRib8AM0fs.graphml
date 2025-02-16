@@ -99,7 +99,7 @@ SPOT: True</data>
       <data key="d11">data</data>
     </edge>
     <data key="d0">Hudl: Ingesting and Transcoding Video Data Using AWS</data>
-    <data key="d1">https://www.youtube.com/watch?v=KgRib8AM0fs&amp;list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb&amp;index=73</data>
+    <data key="d1">https://www.youtube.com/watch?v=KgRib8AM0fs</data>
     <data key="d2">10K instances. 30K events/minute. Latency ~2mins. Drain jobs when termination notice comes up. Use spot advisor. Use common pattern of having lambda look at SQS length and cloudwatch to scale up SpotFleet</data>
     <data key="d3">compute_intensive</data>
     <data key="d4">True</data>
