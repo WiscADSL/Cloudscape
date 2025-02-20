@@ -1,5 +1,23 @@
-This repository contains the dataset and code for [Cloudscape: A Study of Storage Services in Modern Cloud Architectures](https://www.usenix.org/conference/fast25/presentation/satija), presented at FAST25. If you use this dataset, you can cite it using: `todo`.
+This repository contains the dataset and code for [Cloudscape: A Study of Storage Services in Modern Cloud Architectures](https://www.usenix.org/conference/fast25/presentation/satija), presented at FAST25.
 
+<details>
+<summary>BibTeX</summary>
+
+```
+@inproceedings {cloudscape-fast25,
+author = {Sambhav Satija and Chenhao Ye and Ranjitha Kosgi and Aditya Jain and Romit Kankaria and Yiwei Chen and Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau and Kiran Srinivasan},
+title = {Cloudscape: A Study of Storage Services in Modern Cloud Architectures},
+booktitle = {23rd USENIX Conference on File and Storage Technologies (FAST 25)},
+year = {2025},
+address = {Santa Clara, CA},
+url = {https://www.usenix.org/conference/fast25/presentation/satija},
+publisher = {USENIX Association},
+month = feb
+}
+```
+</details>
+
+<br />
 This repository has 3 key parts:
 
 1. **Dataset:** The dataset describes 396 cloud architectures. Each cloud architecture is a GraphML file in `data/graphs/`. The services used across these architectures are described in `data/services.csv`. The [schema section](#1-dataset-schema) describes how to interpret the GraphML and csv files.

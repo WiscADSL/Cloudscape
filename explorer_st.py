@@ -184,7 +184,7 @@ with st.sidebar:
 
 st.title("Cloudscape: Architecture Explorer")
 st.write(
-    "[FAST25 paper](https://www.usenix.org/conference/fast25/presentation/satija) | [Dataset](https://github.com/WiscADSL/Cloudscape) | [BibTeX](https://google.com/)"
+    "[FAST25 paper](https://www.usenix.org/conference/fast25/presentation/satija) | [Dataset](https://github.com/WiscADSL/Cloudscape)"
 )
 
 st.html(
